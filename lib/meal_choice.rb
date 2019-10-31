@@ -5,7 +5,7 @@ order =  "A plate of #{protein} with #{veg} and #{carb}."
 
 p order
 
-puts "What a nutritious meal! #{order} "
+puts "What a nutritious meal! #{order}"
 
 
 end
