@@ -1,5 +1,5 @@
 # Your code here
-def meal_choice(veg, carb, protein = "meat")
+def meal_choice(veg, carb, protein)
 
 p "A plate of meat with #{veg} and #{carb}."
 
