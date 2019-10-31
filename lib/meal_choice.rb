@@ -5,5 +5,4 @@ p "A plate of #{protein} with #{veg} and #{carb}."
 
 print "What a nutritious meal!"
 
-
 end
