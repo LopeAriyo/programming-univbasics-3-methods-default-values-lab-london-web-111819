@@ -1,8 +1,10 @@
 # Your code here
 def meal_choice(veg, carb, protein = "meat")
 
-puts "What a nutritious meal!"
+order = "A plate of #{protein} with #{veg} and #{carb}."
 
-p "A plate of #{protein} with #{veg} and #{carb}."
+puts "What a nutritious meal! #{order}"
+
+p order
 
 end
